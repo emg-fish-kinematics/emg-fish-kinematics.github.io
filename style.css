@@ -111,6 +111,9 @@ h1 {
   gap: 1rem;
   margin-top: 3rem;
 }
+.hero h1 {
+  line-height: 1.05;
+}
 .stat-strip div {
   background: rgba(255,255,255,.68);
   border: 1px solid var(--line);
